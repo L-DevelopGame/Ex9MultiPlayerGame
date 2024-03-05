@@ -13,6 +13,6 @@ You can try the game on [ClickHere](https://liron02319.itch.io/ex9)
 
 * Before Shot and After
 
-![battle1](https://github.com/L-DevelopGame/Ex9Multiplayer/assets/57791415/99f41243-f121-4373-ba94-9ef4dd6021d1)
+![battle1](https://github.com/L-DevelopGame/Ex9MultiPlayerGame/assets/57791415/0634a139-a06d-4ba4-af5e-fa5341f052d4)
 
-![battle2](https://github.com/L-DevelopGame/Ex9Multiplayer/assets/57791415/27720bf5-cd6f-47df-915c-fb254777de6d)
+![battle2](https://github.com/L-DevelopGame/Ex9MultiPlayerGame/assets/57791415/172173f7-d09e-4aa0-9d1a-d7904cc90b24)
